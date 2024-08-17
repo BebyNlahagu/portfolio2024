@@ -32,7 +32,7 @@
 				<ul class="navbar-nav nav ml-auto">
 					<li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
 					<li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
-					<li class="nav-item"><a href="#skills-section" class="nav-link"><span>Skills</span></a></li>
+					{{--<li class="nav-item"><a href="#skills-section" class="nav-link"><span>Skills</span></a></li>--}}
 					<li class="nav-item"><a href="#services-section" class="nav-link"><span>Services</span></a></li>
 					<li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li>
 					<li class="nav-item"><a href="#blog-section" class="nav-link"><span>Blog</span></a></li>
@@ -200,7 +200,7 @@
 		</div>
 	</section>
 	
-	<section class="ftco-section bg-light" id="skills-section">
+	{{--<section class="ftco-section bg-light" id="skills-section">
 		<div class="container">
 			<div class="row justify-content-center pb-5">
 				<div class="col-md-12 heading-section text-center ftco-animate">
@@ -397,15 +397,15 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section>--}}
 
 	<section class="ftco-section" id="services-section">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-md-12 heading-section text-center ftco-animate mb-5">
-					<span class="subheading">I am grat at</span>
-					<h2 class="mb-4">We do awesome services for our clients</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+					<span class="subheading">Layanan</span>
+					<h2 class="mb-4">siap memberikan Layanan Terbaik Kepada Anda</h2>
+					<p>Silahkan pilih Layanan dan siap dibantu</p>
 				</div>
 			</div>
 
@@ -414,8 +414,8 @@
 					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
 						<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-3d-design"></span></div>
 						<div class="media-body">
-							<h3 class="heading mb-3">Web Design</h3>
-							<p>A small river named Duden flows by their place and supplies.</p>
+							<h3 class="heading mb-3">Desain Web</h3>
+							<p>Buat bisnis Anda dengan desain web profesional! Dapatkan situs yang menarik, mudah digunakan, dan responsif. Hubungi kami sekarang untuk konsultasi gratis</p>
 						</div>
 					</div> 
 				</div>
@@ -423,8 +423,8 @@
 					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
 						<div class="icon shadow d-flex align-items-center justify-content-center"><span class="flaticon-app-development"></span></div>
 						<div class="media-body">
-							<h3 class="heading mb-3">Web Application</h3>
-							<p>A small river named Duden flows by their place and supplies.</p>
+							<h3 class="heading mb-3">Aplikasi Web</h3>
+							<p>Ubah ide Anda menjadi aplikasi web hebat! Akses cepat, mudah digunakan, dan dapat diakses di semua perangkat. Hubungi kami untuk konsultasi gratis!"</p>
 						</div>
 					</div> 
 				</div>
@@ -432,8 +432,8 @@
 					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
 						<div class="icon shadow d-flex align-items-center justify-content-center"><span class="flaticon-web-programming"></span></div>
 						<div class="media-body">
-							<h3 class="heading mb-3">Web Development</h3>
-							<p>A small river named Duden flows by their place and supplies.</p>
+							<h3 class="heading mb-3">Website</h3>
+							<p>Buat website profesional dan menarik! Tingkatkan kehadiran online Anda dengan desain responsif yang siap menarik perhatian. Hubungi kami sekarang untuk konsultasi gratis!</p>
 						</div>
 					</div> 
 				</div>
@@ -441,47 +441,8 @@
 					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
 						<div class="icon shadow d-flex align-items-center justify-content-center"><span class="flaticon-branding"></span></div>
 						<div class="media-body">
-							<h3 class="heading mb-3">Banner Design</h3>
-							<p>A small river named Duden flows by their place and supplies.</p>
-						</div>
-					</div> 
-				</div>
-			</div>
-
-			<div class="row">
-				<div class="col-md-6 col-lg-3">
-					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
-						<div class="icon shadow d-flex align-items-center justify-content-center"><span class="flaticon-computer"></span></div>
-						<div class="media-body">
-							<h3 class="heading mb-3">Branding</h3>
-							<p>A small river named Duden flows by their place and supplies.</p>
-						</div>
-					</div> 
-				</div>
-				<div class="col-md-6 col-lg-3">
-					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
-						<div class="icon shadow d-flex align-items-center justify-content-center"><span class="flaticon-vector"></span></div>
-						<div class="media-body">
-							<h3 class="heading mb-3">Icon Design</h3>
-							<p>A small river named Duden flows by their place and supplies.</p>
-						</div>
-					</div> 
-				</div>
-				<div class="col-md-6 col-lg-3">
-					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
-						<div class="icon shadow d-flex align-items-center justify-content-center"><span class="flaticon-vector"></span></div>
-						<div class="media-body">
-							<h3 class="heading mb-3">Graphic Design</h3>
-							<p>A small river named Duden flows by their place and supplies.</p>
-						</div>
-					</div> 
-				</div>
-				<div class="col-md-6 col-lg-3">
-					<div class="media block-6 services d-block bg-white rounded-lg shadow ftco-animate">
-						<div class="icon shadow d-flex align-items-center justify-content-center"><span class="flaticon-zoom"></span></div>
-						<div class="media-body">
-							<h3 class="heading mb-3">SEO</h3>
-							<p>A small river named Duden flows by their place and supplies.</p>
+							<h3 class="heading mb-3">Desain Dan Kreatif Lainnya</h3>
+							<p>Bangun brand Anda dengan desain dan kreativitas tak terbatas! Dari logo hingga konten visual, kami hadir untuk mewujudkan visi Anda. Hubungi kami untuk karya kreatif yang menginspirasi</p>
 						</div>
 					</div> 
 				</div>
@@ -494,13 +455,13 @@
 			<div class="row justify-content-between">
 				<div class="col-md-8 col-lg-8 d-flex align-items-center">
 					<div class="w-100 py-4">
-						<h2>Have a project on your mind.</h2>
-						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly.</p>
-						<p class="mb-0"><a href="#" class="btn btn-white py-3 px-4">Contact me</a></p>
+						<h2>Hubungi</h2>
+						<p>Punya proyek? Kami siap melayani! Wujudkan ide Anda dengan layanan profesional dan hasil terbaik. Hubungi kami sekarang untuk memulai!</p>
+						<p class="mb-0"><a href="https://wa.me/6282361998907" target="_blank" class="btn btn-white py-3 px-4">Hubungi Saya</a></p>
 					</div>
 				</div>
 				<div class="col-md-4 col-lg-4 d-flex align-items-end">
-					<img src="images/author.png" class="img-fluid" alt="">
+					<img src="admin/images/author.png" class="img-fluid" alt="">
 				</div>
 			</div>
 		</div>
@@ -510,14 +471,50 @@
 		<div class="container-fluid px-md-4">
 			<div class="row justify-content-center pb-5">
 				<div class="col-md-12 heading-section text-center ftco-animate">
-					<span class="subheading">Accomplishments</span>
-					<h2 class="mb-4">Our Projects</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+					<span class="subheading">Capaian</span>
+					<h2 class="mb-4">ProjeK</h2>
+					<p>Telah Berpengalaman Dalam Beberapa Proye</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-3">
-					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-1.jpg);">
+					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(admin/images/work-1.jpg);">
+						<div class="overlay"></div>
+						<div class="text text-center p-4">
+							<h3><a href="#">BPS Batubara</a></h3>
+							<span>Desain Web</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(admin/images/work-2.jpg);">
+						<div class="overlay"></div>
+						<div class="text text-center p-4">
+							<h3><a href="#">PT.Hida Berkarya Selalu</a></h3>
+							<span>Website</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(admin/images/work-3.jpg);">
+						<div class="overlay"></div>
+						<div class="text text-center p-4">
+							<h3><a href="#">Coffe Shop Sekata Kopi</a></h3>
+							<span>Website</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(admin/images/work-4.jpg);">
+						<div class="overlay"></div>
+						<div class="text text-center p-4">
+							<h3><a href="#">DISHUBSU</a></h3>
+							<span>Desain Banner</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(admin/images/work-5.jpg);">
 						<div class="overlay"></div>
 						<div class="text text-center p-4">
 							<h3><a href="#">Branding &amp; Illustration Design</a></h3>
@@ -526,7 +523,7 @@
 					</div>
 				</div>
 				<div class="col-md-3">
-					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-2.jpg);">
+					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(admin/images/work-6.jpg);">
 						<div class="overlay"></div>
 						<div class="text text-center p-4">
 							<h3><a href="#">Branding &amp; Illustration Design</a></h3>
@@ -535,7 +532,7 @@
 					</div>
 				</div>
 				<div class="col-md-3">
-					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-3.jpg);">
+					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(admin/images/work-7.jpg);">
 						<div class="overlay"></div>
 						<div class="text text-center p-4">
 							<h3><a href="#">Branding &amp; Illustration Design</a></h3>
@@ -544,43 +541,7 @@
 					</div>
 				</div>
 				<div class="col-md-3">
-					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-4.jpg);">
-						<div class="overlay"></div>
-						<div class="text text-center p-4">
-							<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-							<span>Web Design</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-5.jpg);">
-						<div class="overlay"></div>
-						<div class="text text-center p-4">
-							<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-							<span>Web Design</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-6.jpg);">
-						<div class="overlay"></div>
-						<div class="text text-center p-4">
-							<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-							<span>Web Design</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-7.jpg);">
-						<div class="overlay"></div>
-						<div class="text text-center p-4">
-							<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-							<span>Web Design</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-8.jpg);">
+					<div class="project img shadow ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(admin/images/work-8.jpg);">
 						<div class="overlay"></div>
 						<div class="text text-center p-4">
 							<h3><a href="#">Branding &amp; Illustration Design</a></h3>
@@ -610,7 +571,7 @@
 									<span class="fa fa-quote-left"></span>
 									<p class="mb-4 pl-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
+										<div class="user-img" style="background-image: url(admin/images/person_1.jpg)"></div>
 										<div class="pl-3">
 											<p class="name">Roger Scott</p>
 											<span class="position">Marketing Manager</span>
@@ -625,7 +586,7 @@
 									<span class="fa fa-quote-left"></span>
 									<p class="mb-4 pl-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
+										<div class="user-img" style="background-image: url(admin/images/person_2.jpg)"></div>
 										<div class="pl-3">
 											<p class="name">Roger Scott</p>
 											<span class="position">Marketing Manager</span>
@@ -640,7 +601,7 @@
 									<span class="fa fa-quote-left"></span>
 									<p class="mb-4 pl-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_3.jpg)"></div>
+										<div class="user-img" style="background-image: url(admin/images/person_3.jpg)"></div>
 										<div class="pl-3">
 											<p class="name">Roger Scott</p>
 											<span class="position">Marketing Manager</span>
@@ -655,7 +616,7 @@
 									<span class="fa fa-quote-left"></span>
 									<p class="mb-4 pl-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
+										<div class="user-img" style="background-image: url(admin/images/person_1.jpg)"></div>
 										<div class="pl-3">
 											<p class="name">Roger Scott</p>
 											<span class="position">Marketing Manager</span>
@@ -670,7 +631,7 @@
 									<span class="fa fa-quote-left"></span>
 									<p class="mb-4 pl-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
+										<div class="user-img" style="background-image: url(admin/images/person_2.jpg)"></div>
 										<div class="pl-3">
 											<p class="name">Roger Scott</p>
 											<span class="position">Marketing Manager</span>
